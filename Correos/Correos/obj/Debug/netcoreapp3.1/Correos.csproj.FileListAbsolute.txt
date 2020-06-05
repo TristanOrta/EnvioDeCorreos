@@ -1,0 +1,15 @@
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\bin\Debug\netcoreapp3.1\Correos.exe
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\bin\Debug\netcoreapp3.1\Correos.deps.json
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\bin\Debug\netcoreapp3.1\Correos.runtimeconfig.json
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\bin\Debug\netcoreapp3.1\Correos.runtimeconfig.dev.json
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\bin\Debug\netcoreapp3.1\Correos.dll
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\bin\Debug\netcoreapp3.1\Correos.pdb
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.csprojAssemblyReference.cache
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.Form1.resources
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.csproj.GenerateResource.cache
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.AssemblyInfoInputs.cache
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.AssemblyInfo.cs
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.dll
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.pdb
+C:\Users\Oscar Tristan\source\repos\Correos\Correos\obj\Debug\netcoreapp3.1\Correos.genruntimeconfig.cache
